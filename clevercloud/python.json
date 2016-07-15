@@ -1,0 +1,6 @@
+{
+   "deploy":{
+      "module": "citiesaround_wsgi",
+      "static": "/static/"
+   }
+}
